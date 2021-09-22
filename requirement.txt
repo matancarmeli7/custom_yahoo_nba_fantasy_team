@@ -1,0 +1,2 @@
+openpyxl
+prettytable==2.2.0
